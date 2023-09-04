@@ -178,7 +178,7 @@ Finally :
 
 Async-await function transformations can be achieved by installing the package, otherwise we may have problems with asynchronous operations, and the final version of the webpack.config.js file is as follows.
 
-`` javascript
+``` javascript
 const path = require('path');
 
 module.exports = {
